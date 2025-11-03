@@ -7,3 +7,14 @@
 .odd.bigger {
     font-size: 24px;
 }
+
+#even-blue {
+    color: #0d5895ff;
+    font-size: 36px;
+}
+
+#even-green {
+    background-color: #0bc373ff;
+    font-size: 24px;
+    font-weight: bold;
+}
