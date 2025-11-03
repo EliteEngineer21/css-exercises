@@ -3,3 +3,7 @@
   background-color: #faa5ba;
   font-family: "Verdana", "DejaVu Sans", "sans-serif";
 }
+
+.odd.bigger {
+    font-size: 24px;
+}
